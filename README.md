@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Phu Dang
-pndang@ucsd.edu
+Phu Dang and Daniel Li
